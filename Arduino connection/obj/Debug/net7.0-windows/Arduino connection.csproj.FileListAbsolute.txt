@@ -1,0 +1,16 @@
+C:\Users\mick\source\repos\Arduino connection\bin\Debug\net7.0-windows\Arduino connection.exe
+C:\Users\mick\source\repos\Arduino connection\bin\Debug\net7.0-windows\Arduino connection.deps.json
+C:\Users\mick\source\repos\Arduino connection\bin\Debug\net7.0-windows\Arduino connection.runtimeconfig.json
+C:\Users\mick\source\repos\Arduino connection\bin\Debug\net7.0-windows\Arduino connection.dll
+C:\Users\mick\source\repos\Arduino connection\bin\Debug\net7.0-windows\Arduino connection.pdb
+C:\Users\mick\source\repos\Arduino connection\obj\Debug\net7.0-windows\Arduino_connection.Form1.resources
+C:\Users\mick\source\repos\Arduino connection\obj\Debug\net7.0-windows\Arduino connection.csproj.GenerateResource.cache
+C:\Users\mick\source\repos\Arduino connection\obj\Debug\net7.0-windows\Arduino connection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mick\source\repos\Arduino connection\obj\Debug\net7.0-windows\Arduino connection.AssemblyInfoInputs.cache
+C:\Users\mick\source\repos\Arduino connection\obj\Debug\net7.0-windows\Arduino connection.AssemblyInfo.cs
+C:\Users\mick\source\repos\Arduino connection\obj\Debug\net7.0-windows\Arduino connection.csproj.CoreCompileInputs.cache
+C:\Users\mick\source\repos\Arduino connection\obj\Debug\net7.0-windows\Arduino connection.dll
+C:\Users\mick\source\repos\Arduino connection\obj\Debug\net7.0-windows\refint\Arduino connection.dll
+C:\Users\mick\source\repos\Arduino connection\obj\Debug\net7.0-windows\Arduino connection.pdb
+C:\Users\mick\source\repos\Arduino connection\obj\Debug\net7.0-windows\Arduino connection.genruntimeconfig.cache
+C:\Users\mick\source\repos\Arduino connection\obj\Debug\net7.0-windows\ref\Arduino connection.dll
